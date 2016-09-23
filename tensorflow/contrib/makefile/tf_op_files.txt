@@ -1,3 +1,6 @@
+tensorflow/cc/framework/ops.cc
+tensorflow/cc/framework/scope.cc
+tensorflow/cc/ops/const_op.cc
 tensorflow/core/kernels/xent_op.cc
 tensorflow/core/kernels/where_op.cc
 tensorflow/core/kernels/variable_ops.cc

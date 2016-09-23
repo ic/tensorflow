@@ -427,8 +427,7 @@ $(wildcard tensorflow/core/platform/*.cc) \
 $(wildcard tensorflow/core/platform/*/*.cc) \
 $(wildcard tensorflow/core/platform/*/*/*.cc) \
 $(wildcard tensorflow/core/util/*.cc) \
-$(wildcard tensorflow/core/util/*/*.cc) \
-tensorflow/core/util/version_info.cc
+$(wildcard tensorflow/core/util/*/*.cc)
 CORE_CC_EXCLUDE_SRCS := \
 $(wildcard tensorflow/core/*/*test.cc) \
 $(wildcard tensorflow/core/*/*testutil*) \
